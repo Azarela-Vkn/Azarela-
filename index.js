@@ -18,12 +18,11 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: 'NAMA BIT KALIAN🤖',
-    instagram: 'https://instagram.com/sensi.edtz_',
-    nomer: 'wa.me/+6285964224017',
-    aktif: 'TERSERAH KALIAN MAU JAM BRP AKTIFNYA',
+    A187: 'Azarela Von'Earlshide' 
+    nomer: 'wa.me/+62089652574706',
+    aktif: 'Jika ada paketan kami akan selalu on Qhuntul',
     youtube: 'https://youtube.sensi chanel.com',
-    whatsapp: 'terserah kalian taruh group yg mana',
+    whatsapp: '+62 089652574706',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
