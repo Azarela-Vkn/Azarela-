@@ -47,7 +47,6 @@ const {
     menu2,
     menu3,
     info,
-    donate,
     alay,
     artinama,
     corona,
